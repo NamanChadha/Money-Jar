@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <header className="header">
             <h1 className="title">Money Jar</h1>
-            <h2 className="subtitle">by Arya Nandavadekar</h2>
+            <h2 className="subtitle">by Naman Chadha</h2>
             <nav className="nav">
                 {/* Anchor tag with relative URL */}
                 <a href="home.html">Home</a>
